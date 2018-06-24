@@ -28,5 +28,6 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-   const drivers3 = drivers.filter('Garfield')
+   const drivers3 = drivers.pop()
+   return drivers3
 }
