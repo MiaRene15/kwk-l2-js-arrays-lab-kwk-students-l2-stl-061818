@@ -28,5 +28,5 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-    drivers 
+    drivers.filter('Garfield')
 }
