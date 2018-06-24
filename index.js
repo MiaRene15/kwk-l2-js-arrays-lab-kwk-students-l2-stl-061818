@@ -23,5 +23,5 @@ function appendDriver(name) {
 }
 
 function prependDriver(name) {
-    return const drivers2 = 
+    return const drivers2 = []
 }
