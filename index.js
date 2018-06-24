@@ -28,5 +28,5 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-   const drivers3 = drivers.filter()
+    drivers.slice()
 }
