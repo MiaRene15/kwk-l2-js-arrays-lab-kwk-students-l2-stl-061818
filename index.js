@@ -19,6 +19,6 @@ function destructivelyRemoveFirstDriver() {
 }
 
 function appendDriver(name) {
-      drivers.push('Broom')
-      return drivers.slice()
+      const x = drivers.push('Broom')
+      return x
 }
