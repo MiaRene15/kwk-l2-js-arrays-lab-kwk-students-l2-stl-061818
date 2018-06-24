@@ -19,5 +19,5 @@ function destructivelyRemoveFirstDriver() {
 }
 
 function appendDriver(name) {
-    return drivers.concat('Broom')
+    return drivers.push('Broom')
 }
