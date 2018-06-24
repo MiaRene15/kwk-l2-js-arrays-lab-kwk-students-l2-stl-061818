@@ -7,9 +7,9 @@ function destructivelyAppendDriver(name) {
 }
 
 function destructivelyPrependDriver(name) {
-    drivers.unshift('Bob')
+      drivers.unshift('Bob')
 }
 
 function destructivelyRemoveLastDriver() {
-  drivers.pop('Garfield')
+      drivers.pop('Garfield')
 }
