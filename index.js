@@ -2,4 +2,4 @@
 
 const drivers = ['Milo', 'Otis', 'Garfield']
 
-destructivelyAppend
+function destructivelyAppendDriver(name)
