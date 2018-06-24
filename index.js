@@ -1,3 +1,3 @@
 // Write your solution here!
 
-drivers = ['Milo', 'Otis', '']
+drivers = ['Milo', 'Otis', 'Garfield']
